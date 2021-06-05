@@ -1,0 +1,10 @@
+# Rime user dictionary
+#@/db_name	flypy
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	5
+#@/user_id	e6f2e4c2-c126-4ee9-bd9e-fe1b7702544a
+nimf 	你们	c=1 d=0.980199 t=5
+ufm 	糁	c=1 d=1 t=5
+uo 	说	c=1 d=0.995012 t=5
+z 	在	c=1 d=0.99005 t=5
