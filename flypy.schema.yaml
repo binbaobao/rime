@@ -63,8 +63,8 @@ speller:
   initials: 'abcdefghijklmnopqrstuvwxyz;'
   finals: '/'
   #delimiter: " '"
-  max_code_length: 4
-  auto_select: false   #顶字上屏
+  max_code_length: 10
+  auto_select: true #顶字上屏
   auto_select_pattern: ^;.$|^\w{4}$
   auto_clear: max_length #manual|auto|max_length 空码按下一键确认清屏|空码自动清|达到最长码时后码顶上清屏
 
@@ -150,5 +150,5 @@ menu:
   page_size: 5 #候选项数
   
 style:
-  horizontal: false #竖排为false
+  horizontal: true #竖排为false
   

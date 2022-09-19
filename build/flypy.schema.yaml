@@ -4,7 +4,7 @@ __build_info:
     default: 1613228859
     default.custom: 1595062584
     flypy.custom: 0
-    flypy.schema: 1622721532
+    flypy.schema: 1625208806
     key_bindings: 1613228859
     key_bindings.custom: 0
     punctuation: 1613228859
@@ -181,13 +181,13 @@ simplification:
 speller:
   alphabet: "/;zyxwvutsrqponmlkjihgfedcba"
   auto_clear: max_length
-  auto_select: false
+  auto_select: true
   auto_select_pattern: "^;.$|^\\w{4}$"
   finals: "/"
   initials: "abcdefghijklmnopqrstuvwxyz;"
-  max_code_length: 4
+  max_code_length: 10
 style:
-  horizontal: false
+  horizontal: true
 switches:
   - name: ascii_mode
     reset: 0

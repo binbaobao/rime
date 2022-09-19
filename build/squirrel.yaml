@@ -1,7 +1,7 @@
 __build_info:
   rime_version: 1.7.3
   timestamps:
-    squirrel: 1622637380
+    squirrel: 1624335793
     squirrel.custom: 1622619300
 app_options:
   co.zeit.hyper:
@@ -24,6 +24,7 @@ app_options:
   com.googlecode.iterm2:
     ascii_mode: true
     no_inline: true
+    vim_mode: true
   com.happenapps.Quiver:
     ascii_mode: true
     no_inline: true
