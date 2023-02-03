@@ -24,3 +24,4 @@
 离职	livi
 小时	xu
 我	wo
+你	ni
